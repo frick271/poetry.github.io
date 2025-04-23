@@ -107,3 +107,18 @@ p.stix
 	font-style: italic;
 	color: whitesmoke;
 }
+img.home
+{
+	height: 125px;
+}
+div.home
+{
+	background-color: whitesmoke;
+	height: 130px;
+	width: 130px;
+	float: left;
+	align-content: center;
+	padding: 5px;
+	border-radius: 90%;
+	margin-left: 45%;
+}
