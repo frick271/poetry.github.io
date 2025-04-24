@@ -69,7 +69,7 @@ div.bio
 div.stix1
 {
 	width: 40%;
-	height: 500px;
+	height: 550px;
 	background-color: rgba(0, 0, 0, 0.5);
 	border-radius: 30px;
 	margin: 10px auto;
@@ -105,8 +105,7 @@ p.stix
 {
 	font-family: "Nobile";
 	font-style: italic;
-	color: whitesmoke;
-}
+	color: whitesmoke;}
 img.home
 {
 	height: 125px;
@@ -121,4 +120,13 @@ div.home
 	padding: 5px;
 	border-radius: 90%;
 	margin-left: 45%;
+}
+p.hashtag
+{
+	font-family: "Unbounded";
+	font-style: italic;
+	font-weight: 400;
+	color: whitesmoke;
+	padding-bottom: 10px;
+	margin-top: 50px;
 }
